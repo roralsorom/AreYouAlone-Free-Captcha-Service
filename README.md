@@ -7,7 +7,7 @@ are you alone? you wont last 30 seconds using our free captcha solving service!
 
 ## Available
 ###### OCR ✅ (ocr for zefoy not so accurate ill fix later)
-###### recaptcha v2 and v3 ✅ 
+###### recaptcha v3 ✅ 
 ###### Funcaptcha ❌ (50% done)
 ###### hCaptcha ✅ (using question method)
 
