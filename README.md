@@ -3,7 +3,7 @@ are you alone? you wont last 30 seconds using our free captcha solving service!
 
 
 ## ToDO
-###### Make server public and add the captcha solvers in the api
+###### Make server api public
 
 ## Available
 - [x] OCR ✅ (ocr for zefoy not so accurate ill fix later) 
