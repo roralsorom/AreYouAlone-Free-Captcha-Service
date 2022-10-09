@@ -11,4 +11,12 @@ are you alone? you wont last 30 seconds using our free captcha solving service!
 - [ ] Funcaptcha ❌ (50% done)
 - [x] hCaptcha ✅ (using question method)
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
 contact me on discord if you want me to add more features `-_-rormommemm-_-#4779` (971417463008940112)
