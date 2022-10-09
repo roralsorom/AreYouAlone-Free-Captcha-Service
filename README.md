@@ -6,8 +6,8 @@ are you alone? you wont last 30 seconds using our free captcha solving service!
 ###### Make server public and add some captcha solvers in the api
 
 ## Available
-- [x] hi
-###### OCR ✅ (ocr for zefoy not so accurate ill fix later)
+- [x] OCR ✅ (ocr for zefoy not so accurate ill fix later)
+###### 
 ###### reCaptcha v3 ✅ 
 ###### Funcaptcha ❌ (50% done)
 ###### hCaptcha ✅ (using question method)
