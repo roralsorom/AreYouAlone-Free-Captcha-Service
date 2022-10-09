@@ -12,11 +12,7 @@ are you alone? you wont last 30 seconds using our free captcha solving service!
 - [x] hCaptcha ✅ (using question method)
 
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+- I will not include not include hcaptvha solver / bypass in the api for now.
 ```
 
 contact me on discord if you want me to add more features `-_-rormommemm-_-#4779` (971417463008940112)
